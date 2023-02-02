@@ -1,5 +1,0 @@
----
-'@monolithstd/initweb': patch
----
-
-Installation
