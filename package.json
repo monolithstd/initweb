@@ -1,13 +1,13 @@
 {
-  "name": "@finsweet/developer-starter",
+  "name": "@monolithstd/initweb",
   "version": "1.0.0",
-  "description": "Developer starter template for Finsweet projects.",
-  "homepage": "https://github.com/finsweet/developer-starter#readme",
+  "description": "Custom Code pour le site de la formation Webflow INIT",
+  "homepage": "https://www.init-web.fr",
   "license": "ISC",
   "keywords": [],
   "author": {
-    "name": "Finsweet",
-    "url": "https://www.finsweet.com/"
+    "name": "Théi",
+    "url": "https://www.init-web.fr"
   },
   "repository": {
     "type": "git",
