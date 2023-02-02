@@ -6,7 +6,7 @@
   "license": "ISC",
   "keywords": [],
   "author": {
-    "name": "Théi",
+    "name": "Théo",
     "url": "https://www.init-web.fr"
   },
   "repository": {
@@ -52,6 +52,10 @@
     "typescript": "^4.9.4"
   },
   "dependencies": {
-    "@finsweet/ts-utils": "^0.37.3"
+    "@finsweet/ts-utils": "^0.37.3",
+    "@splidejs/splide": "^4.1.4",
+    "eslint-plugin-simple-import-sort": "^9.0.0",
+    "gsap": "^3.11.4",
+    "split-type": "^0.3.3"
   }
 }
